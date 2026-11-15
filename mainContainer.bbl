@@ -1,0 +1,38 @@
+\begin{thebibliography}{1}
+
+\bibitem{daghmehchi2022memory}
+Mahdi Daghmehchi~Firoozjaei, Arash Habibi~Lashkari, and Ali~A Ghorbani.
+\newblock Memory forensics tools: a comparative analysis.
+\newblock {\em Journal of Cyber Security Technology}, 6(3):149--173, 2022.
+
+\bibitem{Hebb}
+D.~Hebb.
+\newblock {\em The Organization of Behavior}.
+\newblock John Wiley and Sons, 1949.
+
+\bibitem{huyck2013compensatory}
+Christian~R Huyck and Ian~G Mitchell.
+\newblock Compensatory hebbian learning for categorisation in simulated biological neural nets.
+\newblock {\em Biologically Inspired Cognitive Architectures}, 6:3--7, 2013.
+
+\bibitem{minsky1969perceptrons}
+Marvin Minsky and Seymour Papert.
+\newblock Perceptrons.
+\newblock 1969.
+
+\bibitem{rosenblatt1958perceptron}
+Frank Rosenblatt.
+\newblock The perceptron: a probabilistic model for information storage and organization in the brain.
+\newblock {\em Psychological review}, 65(6):386, 1958.
+
+\bibitem{rumelhart1985learning}
+David~E Rumelhart, Geoffrey~E Hinton, and Ronald~J Williams.
+\newblock Learning internal representations by error propagation.
+\newblock Technical report, DTIC Document, 1985.
+
+\bibitem{seyyar2020privacy}
+M~Bas Seyyar and Zeno~JMH Geradts.
+\newblock Privacy impact assessment in large-scale digital forensic investigations.
+\newblock {\em Forensic Science International: Digital Investigation}, 33:200906, 2020.
+
+\end{thebibliography}
