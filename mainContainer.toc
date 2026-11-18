@@ -22,9 +22,9 @@
 \contentsline {section}{\numberline {1.8}Summary of Chapters \textit {(only in for FINAL REPORT)}}{4}{section.1.8}%
 \contentsline {chapter}{\numberline {2}Literature Review}{5}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Introduction}{5}{section.2.1}%
-\contentsline {section}{\numberline {2.2}Background of "YOUR topic"}{5}{section.2.2}%
+\contentsline {section}{\numberline {2.2}Background}{5}{section.2.2}%
 \contentsline {section}{\numberline {2.3}Problem Description}{5}{section.2.3}%
-\contentsline {section}{\numberline {2.4}Sources \& Impacts}{6}{section.2.4}%
+\contentsline {section}{\numberline {2.4}Sources \& Impacts}{5}{section.2.4}%
 \contentsline {section}{\numberline {2.5}Existing Research / Solutions}{6}{section.2.5}%
 \contentsline {section}{\numberline {2.6}Comparative Analysis}{6}{section.2.6}%
 \contentsline {section}{\numberline {2.7}Critical Analysis}{6}{section.2.7}%

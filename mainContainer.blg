@@ -1,48 +1,46 @@
 This is BibTeX, Version 0.99d (TeX Live 2025/Debian)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: mainContainer.aux
-The style file: plain.bst
+The style file: agsm.bst
 Database file #1: references.bib
-Warning--empty journal in minsky1969perceptrons
-You've used 7 entries,
-            2118 wiz_defined-function locations,
-            543 strings with 5107 characters,
-and the built_in function-call counts, 1951 in all, are:
-= -- 189
-> -- 89
+You've used 8 entries,
+            2909 wiz_defined-function locations,
+            687 strings with 6018 characters,
+and the built_in function-call counts, 33235 in all, are:
+= -- 5435
+> -- 420
 < -- 0
-+ -- 37
-- -- 28
-* -- 126
-:= -- 352
-add.period$ -- 21
-call.type$ -- 7
-change.case$ -- 35
-chr.to.int$ -- 0
++ -- 2596
+- -- 126
+* -- 2861
+:= -- 6705
+add.period$ -- 8
+call.type$ -- 8
+change.case$ -- 112
+chr.to.int$ -- 8
 cite$ -- 8
-duplicate$ -- 74
-empty$ -- 152
-format.name$ -- 28
-if$ -- 391
-int.to.chr$ -- 0
-int.to.str$ -- 7
-missing$ -- 7
-newline$ -- 38
-num.names$ -- 14
-pop$ -- 32
+duplicate$ -- 121
+empty$ -- 237
+format.name$ -- 157
+if$ -- 5949
+int.to.chr$ -- 5
+int.to.str$ -- 0
+missing$ -- 8
+newline$ -- 27
+num.names$ -- 83
+pop$ -- 38
 preamble$ -- 1
-purify$ -- 28
+purify$ -- 120
 quote$ -- 0
-skip$ -- 49
+skip$ -- 99
 stack$ -- 0
-substring$ -- 102
-swap$ -- 5
-text.length$ -- 0
+substring$ -- 7669
+swap$ -- 15
+text.length$ -- 112
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 26
-warning$ -- 1
-while$ -- 20
-width$ -- 8
-write$ -- 76
-(There was 1 warning)
+type$ -- 30
+warning$ -- 0
+while$ -- 174
+width$ -- 0
+write$ -- 103

@@ -1,20 +1,32 @@
-Each project has its own unique flow, would recommend you write a sample flow (like a quick table of contents with sections \& sub-sections) of the Literature Review chapter and ask for feedback from your supervisor and implement it.\\
-But general idea:\\
-\begin{itemize}
-    \item Purpose?? It is to provide a comprehensive and critical overview of existing literature on a topic.\\
-    \item How?? By summarising , evaluating, and synthesising the relevant research and articles.\\
-    \item Why?? To identify gaps, trends, contradictions, and key findings. BUT also to justify your methods.
-\end{itemize}
-
-
-To start off the section you can provide a small intro and summary on what the section discusses\ldots
+%Each project has its own unique flow, would recommend you write a sample flow (like a quick table of contents with sections \& sub-sections) of the Literature Review chapter and ask for feedback from your supervisor and implement it.\\
+%But general idea:\\
+%\begin{itemize}
+%    \item Purpose?? It is to provide a comprehensive and critical overview of existing literature on a topic.\\
+%    \item How?? By summarising , evaluating, and synthesising the relevant research and articles.\\
+%    \item Why?? To identify gaps, trends, contradictions, and key findings. BUT also to justify your methods.
+%\end{itemize}
+%To start off the section you can provide a small intro and summary on what the section discusses\ldots
 
 \section{Introduction}
-Introduce the purpose and scope of the literature review.
+%Introduce the purpose and scope of the literature review.
 
-\section{Background of "YOUR topic"}
-Provide a comprehensive background on the chosen topic (e.g., blockchain, AI).
-Explain the evolution and context of the topic.
+This chapter gives a critical overview of existing research on prompt injection
+ (PI) and retrieval-augmented generation (RAG) poisoning. It summarises and 
+ evaluates the relevant studies before drawing their findings together. 
+ The aim is to identify gaps and trends in how adversaries manipulate large 
+ language models (LLMs), and in how current defence mechanisms attempt to 
+ secure these systems.
+
+\section{Background}
+%Provide a comprehensive background on the chosen topic (e.g., blockchain, AI).
+%Explain the evolution and context of the topic.
+
+According to \citet{liu_formalizing_nodate} LLMs have advanced natural language processing considerably. Their integration 
+into real-world applications has also brought significant security challenges.
+Prompt injection is one of these. In a prompt injection attack, the adversary 
+modifies the input data of an LLM-integrated application so that the model 
+carries out a task chosen by the attacker. The user's intended target task is 
+displaced by this injected task.
 
 \section{Problem Description}
 Elaborate on the specific problem identified in the introduction.

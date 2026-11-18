@@ -7,6 +7,7 @@
 \usepackage{fancyhdr}
 \usepackage{pdfpages}
 \usepackage{graphicx}
+\usepackage[round]{natbib}   % (Author, Year) citations
 %\usepackage{hyperref}
 \usepackage[utf8]{inputenc}
 \usepackage[colorlinks=true, linkcolor=blue, urlcolor=blue, citecolor=blue, pdfborder={0 0 0}]{hyperref} % removes blue/red boxes on links
@@ -18,6 +19,8 @@
 \usepackage{enumitem}
 \usepackage{chapterbib}
 \usepackage{lipsum} % For sample text
+
+
 
 %
 % Add other packages here
@@ -230,7 +233,8 @@
 % 	file: references.tex
 %
 % % % % % % % % % % % % % % % %
-\bibliographystyle{plain}
+\bibliographystyle{agsm}     % Harvard style (agsm is from the harvard package)
+%\bibliographystyle{plain}
 \addcontentsline{toc}{chapter}{Bibliography}
 \bibliography{references}
 
