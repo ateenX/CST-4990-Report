@@ -1,0 +1,50 @@
+\contentsline {section}{Declaration}{ii}{chapter*.1}%
+\contentsline {section}{Abstract}{iii}{chapter*.2}%
+\contentsline {section}{Acknowledgements}{iv}{chapter*.3}%
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Background of Study}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Problem Statement}{1}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}Existing Solutions / Works / Research \textit {(do not include in FINAL REPORT [already covered in Chapter 2])}}{1}{subsection.1.2.1}%
+\contentsline {section}{\numberline {1.3}Description of System OR Research Scope}{2}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}Aims}{2}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.3.2}Objectives}{2}{subsection.1.3.2}%
+\contentsline {subsection}{\numberline {1.3.3}Research Questions}{2}{subsection.1.3.3}%
+\contentsline {section}{\numberline {1.4}Key Activities of Project}{3}{section.1.4}%
+\contentsline {subsection}{\numberline {1.4.1}Software Development OR Research Methodology}{3}{subsection.1.4.1}%
+\contentsline {subsection}{\numberline {1.4.2}Project Deliverables}{3}{subsection.1.4.2}%
+\contentsline {section}{\numberline {1.5}Project Plan}{3}{section.1.5}%
+\contentsline {subsection}{\numberline {1.5.1}Milestones}{3}{subsection.1.5.1}%
+\contentsline {subsection}{\numberline {1.5.2}Gantt Chart}{3}{subsection.1.5.2}%
+\contentsline {section}{\numberline {1.6}Resources Required}{3}{section.1.6}%
+\contentsline {subsection}{\numberline {1.6.1}Development Languages/Tools OR Research Tools}{3}{subsection.1.6.1}%
+\contentsline {subsection}{\numberline {1.6.2}Possible Hardware/Technologies/Frameworks}{3}{subsection.1.6.2}%
+\contentsline {section}{\numberline {1.7}Key Contributions \textit {(only in for FINAL REPORT)}}{4}{section.1.7}%
+\contentsline {section}{\numberline {1.8}Summary of Chapters \textit {(only in for FINAL REPORT)}}{4}{section.1.8}%
+\contentsline {chapter}{\numberline {2}Literature Review}{5}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Introduction}{5}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Background of "YOUR topic"}{5}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Problem Description}{5}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Sources \& Impacts}{6}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Existing Research / Solutions}{6}{section.2.5}%
+\contentsline {section}{\numberline {2.6}Comparative Analysis}{6}{section.2.6}%
+\contentsline {section}{\numberline {2.7}Critical Analysis}{6}{section.2.7}%
+\contentsline {section}{\numberline {2.8}Summary of Findings}{6}{section.2.8}%
+\contentsline {section}{\numberline {2.9}Proposed Solution}{6}{section.2.9}%
+\contentsline {chapter}{\numberline {3}Analysis \& Design $\mid $ Research Methodology}{7}{chapter.3}%
+\contentsline {chapter}{\numberline {4}Implementation \& Testing $\mid $ Analysis}{10}{chapter.4}%
+\contentsline {chapter}{\numberline {5}Evaluation $\mid $ Research Results}{13}{chapter.5}%
+\contentsline {chapter}{\numberline {6}Conclusion \& Future Work}{15}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Project Analysis}{15}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Limitations of Project}{15}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Future Works}{15}{section.6.3}%
+\contentsline {chapter}{Bibliography}{15}{section.6.3}%
+\contentsline {part}{Appendices}{20}{part*.9}%
+\contentsline {chapter}{\numberline {A}Tutorials}{20}{appendix.A}%
+\contentsline {section}{\numberline {A.1}LaTeX TUTORIALS}{20}{section.A.1}%
+\contentsline {subsubsection}{Citation \& Reference}{20}{section*.10}%
+\contentsline {subsubsection}{Example of glossary}{21}{section*.11}%
+\contentsline {subsubsection}{Schedule}{21}{section*.12}%
+\contentsline {subsubsection}{Experiment 1}{22}{section*.13}%
+\contentsline {subsubsection}{Experiment 2}{22}{section*.14}%
+\contentsline {chapter}{\numberline {B}Ethical Approval}{23}{appendix.B}%
+\contentsline {chapter}{\numberline {C}Meeting Log with Supervisor}{27}{appendix.C}%
