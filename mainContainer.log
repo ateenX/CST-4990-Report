@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025/Debian) (preloaded format=pdflatex 2026.11.14)  19 NOV 2026 00:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025/Debian) (preloaded format=pdflatex 2026.11.14)  21 NOV 2026 13:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -614,7 +614,7 @@ Overfull \hbox (3.11176pt too wide) in paragraph at lines 87--89
 Chapter 2.
 (./ch2/ch2.tex [5
 
-]) [6]
+] [6]) [7]
 Chapter 3.
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
@@ -633,9 +633,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--3
 
  []
 
-[7
+[8
 
-] [8]) [9]
+] [9]) [10]
 Chapter 4.
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
@@ -664,14 +664,14 @@ Overfull \hbox (6.11172pt too wide) in paragraph at lines 21--23
 \OT1/cmr/m/n/10 Only pro-vide small snip-pets of the main scripts and ex-plain its use/task 
  []
 
-[10
+[11
 
 ]
 Overfull \hbox (19.75055pt too wide) in paragraph at lines 46--49
 \OT1/cmr/m/n/10 Describes the anal-y-sis pro-ce-dure and how they an-swer re-search ques-tions/hypothesis. 
  []
 
-[11]) [12]
+[12]) [13]
 Chapter 5.
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
@@ -690,51 +690,51 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--3
 
  []
 
-[13
+[14
 
-]) [14]
+]) [15]
 Chapter 6.
-(./ch6/ch6.tex) (./mainContainer.bbl [15
+(./ch6/ch6.tex) (./mainContainer.bbl [16
 
-]) [16
+] [17
 
-]
+]) [18]
 Underfull \hbox (badness 10000) in paragraph at lines 266--267
 
  []
 
-[17
+[19
 
-] [18] [19
+] [20] [21
 
 ] (./appendix/appendices.tex
 Appendix A.
-<appendix/images/digitalForensics.jpg, id=421, 627.34375pt x 501.875pt>
+<appendix/images/digitalForensics.jpg, id=461, 627.34375pt x 501.875pt>
 File: appendix/images/digitalForensics.jpg Graphic file (type jpg)
 <use appendix/images/digitalForensics.jpg>
 Package pdftex.def Info: appendix/images/digitalForensics.jpg  used on input line 5.
 (pdftex.def)             Requested size: 219.5736pt x 175.65887pt.
-[20
+[22
 
 ]
-<appendix/images/linux-directory-structure.png, id=448, 602.25pt x 301.125pt>
+<appendix/images/linux-directory-structure.png, id=489, 602.25pt x 301.125pt>
 File: appendix/images/linux-directory-structure.png Graphic file (type png)
 <use appendix/images/linux-directory-structure.png>
 Package pdftex.def Info: appendix/images/linux-directory-structure.png  used on input line 56.
 (pdftex.def)             Requested size: 240.89572pt x 120.44786pt.
-<appendix/images/awo.jpg, id=450, 3115.64pt x 1752.5475pt>
+<appendix/images/awo.jpg, id=491, 3115.64pt x 1752.5475pt>
 File: appendix/images/awo.jpg Graphic file (type jpg)
 <use appendix/images/awo.jpg>
 Package pdftex.def Info: appendix/images/awo.jpg  used on input line 63.
 (pdftex.def)             Requested size: 311.58226pt x 175.26501pt.
- [21 <./appendix/images/digitalForensics.jpg> <./appendix/images/linux-directory-structure.png>] [22 <./appendix/images/awo.jpg>]
+ [23 <./appendix/images/digitalForensics.jpg> <./appendix/images/linux-directory-structure.png>] [24 <./appendix/images/awo.jpg>]
 Appendix B.
-<appendix/MUR Research Ethics Screening Form for Students V8.pdf, id=470, 614.295pt x 794.97pt>
+<appendix/MUR Research Ethics Screening Form for Students V8.pdf, id=510, 614.295pt x 794.97pt>
 File: appendix/MUR Research Ethics Screening Form for Students V8.pdf Graphic file (type pdf)
 <use appendix/MUR Research Ethics Screening Form for Students V8.pdf>
 Package pdftex.def Info: appendix/MUR Research Ethics Screening Form for Students V8.pdf  used on input line 103.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<appendix/MUR Research Ethics Screening Form for Students V8.pdf, id=472, page=1, 614.295pt x 794.97pt>
+<appendix/MUR Research Ethics Screening Form for Students V8.pdf, id=512, page=1, 614.295pt x 794.97pt>
 File: appendix/MUR Research Ethics Screening Form for Students V8.pdf Graphic file (type pdf)
 <use appendix/MUR Research Ethics Screening Form for Students V8.pdf, page 1>
 Package pdftex.def Info: appendix/MUR Research Ethics Screening Form for Students V8.pdf , page1 used on input line 103.
@@ -748,7 +748,7 @@ Overfull \hbox (1.75058pt too wide) in paragraph at lines 102--103
 \OT1/cmr/m/n/10 The be-low form needs to be filled first, then signed by your su-per-vi-sor.             
  []
 
-[23
+[25
 
 ]
 File: appendix/MUR Research Ethics Screening Form for Students V8.pdf Graphic file (type pdf)
@@ -762,49 +762,49 @@ Package pdftex.def Info: appendix/MUR Research Ethics Screening Form for Student
 File: appendix/MUR Research Ethics Screening Form for Students V8.pdf Graphic file (type pdf)
 <use appendix/MUR Research Ethics Screening Form for Students V8.pdf, page 1>
 Package pdftex.def Info: appendix/MUR Research Ethics Screening Form for Students V8.pdf , page1 used on input line 103.
-(pdftex.def)             Requested size: 460.72011pt x 596.22604pt.
- [24
-
- <./appendix/MUR Research Ethics Screening Form for Students V8.pdf>]
-<appendix/MUR Research Ethics Screening Form for Students V8.pdf, id=517, page=2, 614.295pt x 794.97pt>
-File: appendix/MUR Research Ethics Screening Form for Students V8.pdf Graphic file (type pdf)
-<use appendix/MUR Research Ethics Screening Form for Students V8.pdf, page 2>
-Package pdftex.def Info: appendix/MUR Research Ethics Screening Form for Students V8.pdf , page2 used on input line 103.
-(pdftex.def)             Requested size: 460.72011pt x 596.22604pt.
-File: appendix/MUR Research Ethics Screening Form for Students V8.pdf Graphic file (type pdf)
-<use appendix/MUR Research Ethics Screening Form for Students V8.pdf, page 2>
-Package pdftex.def Info: appendix/MUR Research Ethics Screening Form for Students V8.pdf , page2 used on input line 103.
-(pdftex.def)             Requested size: 460.72011pt x 596.22604pt.
-File: appendix/MUR Research Ethics Screening Form for Students V8.pdf Graphic file (type pdf)
-<use appendix/MUR Research Ethics Screening Form for Students V8.pdf, page 2>
-Package pdftex.def Info: appendix/MUR Research Ethics Screening Form for Students V8.pdf , page2 used on input line 103.
-(pdftex.def)             Requested size: 460.72011pt x 596.22604pt.
- [25
-
- <./appendix/MUR Research Ethics Screening Form for Students V8.pdf>]
-<appendix/MUR Research Ethics Screening Form for Students V8.pdf, id=535, page=3, 614.295pt x 794.97pt>
-File: appendix/MUR Research Ethics Screening Form for Students V8.pdf Graphic file (type pdf)
-<use appendix/MUR Research Ethics Screening Form for Students V8.pdf, page 3>
-Package pdftex.def Info: appendix/MUR Research Ethics Screening Form for Students V8.pdf , page3 used on input line 103.
-(pdftex.def)             Requested size: 460.72011pt x 596.22604pt.
-File: appendix/MUR Research Ethics Screening Form for Students V8.pdf Graphic file (type pdf)
-<use appendix/MUR Research Ethics Screening Form for Students V8.pdf, page 3>
-Package pdftex.def Info: appendix/MUR Research Ethics Screening Form for Students V8.pdf , page3 used on input line 103.
-(pdftex.def)             Requested size: 460.72011pt x 596.22604pt.
-File: appendix/MUR Research Ethics Screening Form for Students V8.pdf Graphic file (type pdf)
-<use appendix/MUR Research Ethics Screening Form for Students V8.pdf, page 3>
-Package pdftex.def Info: appendix/MUR Research Ethics Screening Form for Students V8.pdf , page3 used on input line 103.
 (pdftex.def)             Requested size: 460.72011pt x 596.22604pt.
  [26
 
  <./appendix/MUR Research Ethics Screening Form for Students V8.pdf>]
+<appendix/MUR Research Ethics Screening Form for Students V8.pdf, id=558, page=2, 614.295pt x 794.97pt>
+File: appendix/MUR Research Ethics Screening Form for Students V8.pdf Graphic file (type pdf)
+<use appendix/MUR Research Ethics Screening Form for Students V8.pdf, page 2>
+Package pdftex.def Info: appendix/MUR Research Ethics Screening Form for Students V8.pdf , page2 used on input line 103.
+(pdftex.def)             Requested size: 460.72011pt x 596.22604pt.
+File: appendix/MUR Research Ethics Screening Form for Students V8.pdf Graphic file (type pdf)
+<use appendix/MUR Research Ethics Screening Form for Students V8.pdf, page 2>
+Package pdftex.def Info: appendix/MUR Research Ethics Screening Form for Students V8.pdf , page2 used on input line 103.
+(pdftex.def)             Requested size: 460.72011pt x 596.22604pt.
+File: appendix/MUR Research Ethics Screening Form for Students V8.pdf Graphic file (type pdf)
+<use appendix/MUR Research Ethics Screening Form for Students V8.pdf, page 2>
+Package pdftex.def Info: appendix/MUR Research Ethics Screening Form for Students V8.pdf , page2 used on input line 103.
+(pdftex.def)             Requested size: 460.72011pt x 596.22604pt.
+ [27
+
+ <./appendix/MUR Research Ethics Screening Form for Students V8.pdf>]
+<appendix/MUR Research Ethics Screening Form for Students V8.pdf, id=575, page=3, 614.295pt x 794.97pt>
+File: appendix/MUR Research Ethics Screening Form for Students V8.pdf Graphic file (type pdf)
+<use appendix/MUR Research Ethics Screening Form for Students V8.pdf, page 3>
+Package pdftex.def Info: appendix/MUR Research Ethics Screening Form for Students V8.pdf , page3 used on input line 103.
+(pdftex.def)             Requested size: 460.72011pt x 596.22604pt.
+File: appendix/MUR Research Ethics Screening Form for Students V8.pdf Graphic file (type pdf)
+<use appendix/MUR Research Ethics Screening Form for Students V8.pdf, page 3>
+Package pdftex.def Info: appendix/MUR Research Ethics Screening Form for Students V8.pdf , page3 used on input line 103.
+(pdftex.def)             Requested size: 460.72011pt x 596.22604pt.
+File: appendix/MUR Research Ethics Screening Form for Students V8.pdf Graphic file (type pdf)
+<use appendix/MUR Research Ethics Screening Form for Students V8.pdf, page 3>
+Package pdftex.def Info: appendix/MUR Research Ethics Screening Form for Students V8.pdf , page3 used on input line 103.
+(pdftex.def)             Requested size: 460.72011pt x 596.22604pt.
+ [28
+
+ <./appendix/MUR Research Ethics Screening Form for Students V8.pdf>]
 Appendix C.
-<appendix/Meeting Logs.pdf, id=541, 597.23125pt x 844.75598pt>
+<appendix/Meeting Logs.pdf, id=582, 597.23125pt x 844.75598pt>
 File: appendix/Meeting Logs.pdf Graphic file (type pdf)
 <use appendix/Meeting Logs.pdf>
 Package pdftex.def Info: appendix/Meeting Logs.pdf  used on input line 108.
 (pdftex.def)             Requested size: 597.22978pt x 844.75392pt.
-<appendix/Meeting Logs.pdf, id=543, page=1, 597.23125pt x 844.75598pt>
+<appendix/Meeting Logs.pdf, id=584, page=1, 597.23125pt x 844.75598pt>
 File: appendix/Meeting Logs.pdf Graphic file (type pdf)
 <use appendix/Meeting Logs.pdf, page 1>
 Package pdftex.def Info: appendix/Meeting Logs.pdf , page1 used on input line 108.
@@ -813,7 +813,7 @@ File: appendix/Meeting Logs.pdf Graphic file (type pdf)
 <use appendix/Meeting Logs.pdf, page 1>
 Package pdftex.def Info: appendix/Meeting Logs.pdf , page1 used on input line 108.
 (pdftex.def)             Requested size: 447.92233pt x 633.56543pt.
-[27
+[29
 
 ]
 File: appendix/Meeting Logs.pdf Graphic file (type pdf)
@@ -828,7 +828,7 @@ File: appendix/Meeting Logs.pdf Graphic file (type pdf)
 <use appendix/Meeting Logs.pdf, page 1>
 Package pdftex.def Info: appendix/Meeting Logs.pdf , page1 used on input line 108.
 (pdftex.def)             Requested size: 447.92233pt x 633.56543pt.
- [28
+ [30
 
  <./appendix/Meeting Logs.pdf>]) (./mainContainer.aux)
  ***********
@@ -839,10 +839,10 @@ Package rerunfilecheck Info: File `mainContainer.out' has not changed.
 (rerunfilecheck)             Checksum: 59F81D50C012DE2B7C4EEAB25717BF0E;7771.
  ) 
 Here is how much of TeX's memory you used:
- 22456 strings out of 467533
- 407751 string characters out of 5422137
- 952168 words of memory out of 5000000
- 50938 multiletter control sequences out of 15000+600000
+ 22482 strings out of 467533
+ 408496 string characters out of 5422137
+ 952538 words of memory out of 5000000
+ 50955 multiletter control sequences out of 15000+600000
  635473 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  78i,18n,90p,2543b,702s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -859,10 +859,10 @@ pdfTeX warning (dest): name{glo:poet} has been referenced but does not exist, re
 pdfTeX warning (dest): name{glo:ca1} has been referenced but does not exist, replaced by a fixed one
 
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on mainContainer.pdf (37 pages, 1919423 bytes).
+Output written on mainContainer.pdf (39 pages, 1925882 bytes).
 PDF statistics:
- 652 PDF objects out of 1000 (max. 8388607)
- 558 compressed objects within 6 object streams
- 141 named destinations out of 1000 (max. 500000)
+ 694 PDF objects out of 1000 (max. 8388607)
+ 598 compressed objects within 6 object streams
+ 150 named destinations out of 1000 (max. 500000)
  421 words of extra memory for PDF output out of 10000 (max. 10000000)
 

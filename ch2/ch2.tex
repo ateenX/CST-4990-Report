@@ -21,12 +21,55 @@ This chapter gives a critical overview of existing research on prompt injection
 %Provide a comprehensive background on the chosen topic (e.g., blockchain, AI).
 %Explain the evolution and context of the topic.
 
-According to \citet{liu_formalizing_nodate} LLMs have advanced natural language processing considerably. Their integration 
-into real-world applications has also brought significant security challenges.
-Prompt injection is one of these. In a prompt injection attack, the adversary 
-modifies the input data of an LLM-integrated application so that the model 
-carries out a task chosen by the attacker. The user's intended target task is 
-displaced by this injected task.
+According to \citet{correia_systematic_2026, greshake_not_2023} Large Language Models (LLMs) 
+have rapidly transitioned from standalone text generation interfaces into 
+foundational cognitive engines integrated into mission-critical software, 
+enterprise workflows, and autonomous decision pipelines. Despite their linguistic fluency and advanced problem-solving capabilities,
+foundation models suffer from well-documented systemic constraints,
+including temporal knowledge obsolescence, factual hallucinations, 
+and an inability to access private or domain-specific corpora natively 
+\citet{zou_poisonedrag_2025,zhang_benchmarking_2025}.
+To address these limitations, modern artificial intelligence
+architectures widely adopt Retrieval-Augmented Generation (RAG) 
+\citet{lewis2021retrievalaugmentedgenerationknowledgeintensivenlp}.
+By coupling generative models with neural information retrieval pipelines
+over external knowledge bases, RAG grounds model generation in dynamic, 
+verifiable external evidence.
+
+However, incorporating external data and third-party tools directly into 
+the generative execution loop creates severe vulnerabilities
+\citet{correia_systematic_2026}.In classical computing architectures, 
+security relies fundamentally on strict, hardware-enforced boundaries 
+separating executable control instructions from untrusted application data
+\citet{greshake_not_2023}. In contrast, generative language models process 
+system instructions, user queries, retrieved context, and tool outputs 
+within a single, unified natural language context window
+\citet{liu_formalizing_2024}.
+Because transformers cannot fundamentally distinguish the authoritative
+semantic weight of a system prompt from ingested external text, adversaries 
+can manipulate the system's execution flow without modifying underlying 
+model weights \citet{liu_formalizing_2024}.
+This vulnerability manifests across two converging threat vectors:
+\begin{enumerate}
+    \item 
+    \textbf{Prompt Injection (PI):} The insertion of adversarial natural 
+    language commands through direct user prompts or indirect external 
+    data channels (e.g., websites, emails, shared documents) that hijack 
+    the model's instruction-following capabilities, overriding developer 
+    directives and forcing unauthorized actions 
+    \citet{greshake_not_2023,liu_formalizing_2024}. 
+    \item 
+    \textbf{RAG Knowledge Poisoning:} The targeted corruption of external retrieval 
+    databases, wherein an adversary injects maliciously crafted texts 
+    engineered to be retrieved by dense neural retrievers, thereby 
+    manipulating the generator model into producing false statements, 
+    commercial biases, or denial-of-service refusals
+    \citet{zou_poisonedrag_2025,zhang_benchmarking_2025}.
+
+\end{enumerate}
+
+
+
 
 \section{Problem Description}
 Elaborate on the specific problem identified in the introduction.

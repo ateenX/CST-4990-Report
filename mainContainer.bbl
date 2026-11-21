@@ -1,7 +1,15 @@
 \begin{thebibliography}{xx}
 
+\harvarditem{Correia \harvardand\ Achjian}{2026}{correia_systematic_2026}
+Correia, P. H.~B. \harvardand\ Achjian, R.~W.  \harvardyearleft 2026\harvardyearright , `A {Systematic} {Literature} {Review} on {LLM} {Defenses} {Against} {Prompt} {Injection} and {Jailbreaking}: {Expanding} {NIST} {Taxonomy}'.
+
 \harvarditem[Daghmehchi~Firoozjaei et~al.]{Daghmehchi~Firoozjaei, Habibi~Lashkari \harvardand\ Ghorbani}{2022}{daghmehchi2022memory}
 Daghmehchi~Firoozjaei, M., Habibi~Lashkari, A. \harvardand\ Ghorbani, A.~A.  \harvardyearleft 2022\harvardyearright , `Memory forensics tools: a comparative analysis', {\em Journal of Cyber Security Technology} {\bf 6}(3),~149--173.
+
+\harvarditem[Greshake et~al.]{Greshake, Abdelnabi, Mishra, Endres, Holz \harvardand\ Fritz}{2023}{greshake_not_2023}
+Greshake, K., Abdelnabi, S., Mishra, S., Endres, C., Holz, T. \harvardand\ Fritz, M.  \harvardyearleft 2023\harvardyearright , `Not what you've signed up for: {Compromising} {Real}-{World} {LLM}-{Integrated} {Applications} with {Indirect} {Prompt} {Injection}'.
+\newblock arXiv:2302.12173 [cs.CR].
+\newline\harvardurl{http://arxiv.org/abs/2302.12173}
 
 \harvarditem{Hebb}{1949}{Hebb}
 Hebb, D.  \harvardyearleft 1949\harvardyearright , {\em The Organization of Behavior}, John Wiley and Sons.
@@ -9,8 +17,12 @@ Hebb, D.  \harvardyearleft 1949\harvardyearright , {\em The Organization of Beha
 \harvarditem{Huyck \harvardand\ Mitchell}{2013}{huyck2013compensatory}
 Huyck, C.~R. \harvardand\ Mitchell, I.~G.  \harvardyearleft 2013\harvardyearright , `Compensatory hebbian learning for categorisation in simulated biological neural nets', {\em Biologically Inspired Cognitive Architectures} {\bf 6},~3--7.
 
-\harvarditem[Liu et~al.]{Liu, Geng, Jia \harvardand\ Gong}{n.d.}{liu_formalizing_nodate}
-Liu, Y., Geng, R., Jia, J. \harvardand\ Gong, N.~Z.  \harvardyearleft n.d.\harvardyearright , `Formalizing and {Benchmarking} {Prompt} {Injection} {Attacks} and {Defenses}'.
+\harvarditem[Lewis et~al.]{Lewis, Perez, Piktus, Petroni, Karpukhin, Goyal, Küttler, Lewis, tau Yih, Rocktäschel, Riedel \harvardand\ Kiela}{2021}{lewis2021retrievalaugmentedgenerationknowledgeintensivenlp}
+Lewis, P., Perez, E., Piktus, A., Petroni, F., Karpukhin, V., Goyal, N., Küttler, H., Lewis, M., tau Yih, W., Rocktäschel, T., Riedel, S. \harvardand\ Kiela, D.  \harvardyearleft 2021\harvardyearright , `Retrieval-augmented generation for knowledge-intensive nlp tasks'.
+\newline\harvardurl{https://arxiv.org/abs/2005.11401}
+
+\harvarditem[Liu et~al.]{Liu, Geng, Jia \harvardand\ Gong}{2024}{liu_formalizing_2024}
+Liu, Y., Geng, R., Jia, J. \harvardand\ Gong, N.~Z.  \harvardyearleft 2024\harvardyearright , `Formalizing and {Benchmarking} {Prompt} {Injection} {Attacks} and {Defenses}',  {\bf 33},~1831 -- 1847.
 
 \harvarditem{Minsky \harvardand\ Papert}{1969}{minsky1969perceptrons}
 Minsky, M. \harvardand\ Papert, S.  \harvardyearleft 1969\harvardyearright , `Perceptrons.'.
@@ -23,5 +35,13 @@ Rumelhart, D.~E., Hinton, G.~E. \harvardand\ Williams, R.~J.  \harvardyearleft 1
 
 \harvarditem{Seyyar \harvardand\ Geradts}{2020}{seyyar2020privacy}
 Seyyar, M.~B. \harvardand\ Geradts, Z.~J.  \harvardyearleft 2020\harvardyearright , `Privacy impact assessment in large-scale digital forensic investigations', {\em Forensic Science International: Digital Investigation} {\bf 33},~200906.
+
+\harvarditem[Zhang et~al.]{Zhang, Xin, Li, Zhang, Fang, Liu, Nie \harvardand\ Liu}{2025}{zhang_benchmarking_2025}
+Zhang, B., Xin, H., Li, J., Zhang, D., Fang, M., Liu, Z., Nie, L. \harvardand\ Liu, Z.  \harvardyearleft 2025\harvardyearright , `Benchmarking {Poisoning} {Attacks} against {Retrieval}-{Augmented} {Generation}'.
+\newblock Version Number: 1.
+\newline\harvardurl{https://arxiv.org/abs/2505.18543}
+
+\harvarditem{Zou \harvardand\ Geng}{2025}{zou_poisonedrag_2025}
+Zou, W. \harvardand\ Geng, R.  \harvardyearleft 2025\harvardyearright , `{PoisonedRAG}: {Knowledge} {Corruption} {Attacks} to {Retrieval}-{Augmented} {Generation} of {Large} {Language} {Models}',  pp.~3827 -- 3844.
 
 \end{thebibliography}

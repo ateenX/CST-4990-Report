@@ -164,12 +164,16 @@ doi={10.1109/TX}
 
 %new
 
-@article{correia_systematic_nodate,
+
+@article{correia_systematic_2026,
 	title = {A {Systematic} {Literature} {Review} on {LLM} {Defenses} {Against} {Prompt} {Injection} and {Jailbreaking}: {Expanding} {NIST} {Taxonomy}},
 	abstract = {The rapid advancement and widespread adoption of generative artificial intelligence (GenAI) and large language models (LLMs) has been accompanied by the emergence of new security vulnerabilities and challenges, such as jailbreaking and other prompt injection attacks. These maliciously crafted inputs can exploit LLMs, causing data leaks, unauthorized actions, or compromised outputs, for instance. As both offensive and defensive prompt injection techniques evolve quickly, a structured understanding of mitigation strategies becomes increasingly important. To address that, this work presents the first systematic literature review on prompt injection mitigation strategies, comprehending 88 studies. Building upon NIST’s report on adversarial machine learning, this work contributes to the field through several avenues. First, it identifies studies beyond those documented in NIST’s report and other academic reviews and surveys. Second, we propose an extension to NIST taxonomy by introducing additional categories of defenses. Third, by adopting NIST’s established terminology and taxonomy as a foundation, we promote consistency and enable future researchers to build upon the standardized taxonomy proposed in this work. Finally, we provide a comprehensive catalog of the reviewed prompt injection defenses, documenting their reported quantitative effectiveness across specific LLMs and attack datasets, while also indicating which solutions are open-source and model-agnostic. This catalog, together with the guidelines presented herein, aims to serve as a practical resource for researchers advancing the field of adversarial machine learning and for developers seeking to implement effective defenses in production systems.},
 	language = {en},
+	publisher = {Elsevier Computer Science Review},
 	author = {Correia, Pedro H Barcha and Achjian, Ryan W},
-	file = {PDF:C\:\\Users\\Ubok-Owaji\\Zotero\\storage\\6ZN6B5V4\\Correia and Achjian - A Systematic Literature Review on LLM Defenses Against Prompt Injection and Jailbreaking Expanding.pdf:application/pdf},
+	month = jul,
+	year = {2026},
+	file = {PDF:files/460/Correia and Achjian - 2026 - A Systematic Literature Review on LLM Defenses Against Prompt Injection and Jailbreaking Expanding.pdf:application/pdf},
 }
 
 @misc{greshake_not_2023,
@@ -185,24 +189,33 @@ doi={10.1109/TX}
 	month = may,
 	year = {2023},
 	note = {arXiv:2302.12173 [cs.CR]},
-	keywords = {Computer Science - Artificial Intelligence, Computer Science - Computation and Language, Computer Science - Computers and Society, Computer Science - Cryptography and Security},
-	file = {PDF:C\:\\Users\\Ubok-Owaji\\Zotero\\storage\\F4JP7JYN\\Greshake et al. - 2023 - Not what you've signed up for Compromising Real-World LLM-Integrated Applications with Indirect Pro.pdf:application/pdf},
+	keywords = {Computer Science - Artificial Intelligence, Computer Science - Cryptography and Security, Computer Science - Computation and Language, Computer Science - Computers and Society},
+	file = {PDF:files/462/Greshake et al. - 2023 - Not what you've signed up for Compromising Real-World LLM-Integrated Applications with Indirect Pro.pdf:application/pdf},
 }
 
-@article{liu_formalizing_nodate,
+@article{liu_formalizing_2024,
+	address = {Seattle, WA, USA},
 	title = {Formalizing and {Benchmarking} {Prompt} {Injection} {Attacks} and {Defenses}},
+	volume = {33},
 	abstract = {A prompt injection attack aims to inject malicious instruction/data into the input of an LLM-Integrated Application such that it produces results as an attacker desires. Existing works are limited to case studies. As a result, the literature lacks a systematic understanding of prompt injection attacks and their defenses. We aim to bridge the gap in this work. In particular, we propose a framework to formalize prompt injection attacks. Existing attacks are special cases in our framework. Moreover, based on our framework, we design a new attack by combining existing ones. Using our framework, we conduct a systematic evaluation on 5 prompt injection attacks and 10 defenses with 10 LLMs and 7 tasks. Our work provides a common benchmark for quantitatively evaluating future prompt injection attacks and defenses. To facilitate research on this topic, we make our platform public at https: //github.com/liu00222/Open-Prompt-Injection.},
 	language = {en},
+	publisher = {USENIX Association},
 	author = {Liu, Yupei and Geng, Runpeng and Jia, Jinyuan and Gong, Neil Zhenqiang},
-	file = {PDF:C\:\\Users\\Ubok-Owaji\\Zotero\\storage\\HB72U2IU\\Liu et al. - Formalizing and Benchmarking Prompt Injection Attacks and Defenses.pdf:application/pdf},
+	year = {2024},
+	pages = {1831 -- 1847},
+	file = {PDF:files/464/Liu et al. - 2024 - Formalizing and Benchmarking Prompt Injection Attacks and Defenses.pdf:application/pdf},
 }
 
-@article{zou_poisonedrag_nodate,
+@article{zou_poisonedrag_2025,
+	address = {Seattle, WA, USA},
 	title = {{PoisonedRAG}: {Knowledge} {Corruption} {Attacks} to {Retrieval}-{Augmented} {Generation} of {Large} {Language} {Models}},
 	abstract = {Large language models (LLMs) have achieved remarkable success due to their exceptional generative capabilities. Despite their success, they also have inherent limitations such as a lack of up-to-date knowledge and hallucination. RetrievalAugmented Generation (RAG) is a state-of-the-art technique to mitigate these limitations. The key idea of RAG is to ground the answer generation of an LLM on external knowledge retrieved from a knowledge database. Existing studies mainly focus on improving the accuracy or efﬁciency of RAG, leaving its security largely unexplored. We aim to bridge the gap in this work. We ﬁnd that the knowledge database in a RAG system introduces a new and practical attack surface. Based on this attack surface, we propose PoisonedRAG, the ﬁrst knowledge corruption attack to RAG, where an attacker could inject a few malicious texts into the knowledge database of a RAG system to induce an LLM to generate an attacker-chosen target answer for an attacker-chosen target question. We formulate knowledge corruption attacks as an optimization problem, whose solution is a set of malicious texts. Depending on the background knowledge (e.g., blackbox and white-box settings) of an attacker on a RAG system, we propose two solutions to solve the optimization problem, respectively. Our results show PoisonedRAG could achieve a 90\% attack success rate when injecting ﬁve malicious texts for each target question into a knowledge database with millions of texts. We also evaluate several defenses and our results show they are insufﬁcient to defend against PoisonedRAG, highlighting the need for new defenses.},
 	language = {en},
+	publisher = {USENIX Association},
 	author = {Zou, Wei and Geng, Runpeng},
-	file = {PDF:C\:\\Users\\Ubok-Owaji\\Zotero\\storage\\VZH9X5A3\\Zou and Geng - PoisonedRAG Knowledge Corruption Attacks to Retrieval-Augmented Generation of Large Language Models.pdf:application/pdf},
+	year = {2025},
+	pages = {3827 -- 3844},
+	file = {PDF:files/466/Zou and Geng - 2025 - PoisonedRAG Knowledge Corruption Attacks to Retrieval-Augmented Generation of Large Language Models.pdf:application/pdf},
 }
 
 @misc{li_injecguard_2025,
@@ -218,8 +231,8 @@ doi={10.1109/TX}
 	month = mar,
 	year = {2025},
 	note = {arXiv:2410.22770 [cs.CL]},
-	keywords = {Computer Science - Artificial Intelligence, Computer Science - Computation and Language, Computer Science - Cryptography and Security},
-	file = {PDF:C\:\\Users\\Ubok-Owaji\\Zotero\\storage\\RPR46KP5\\Li and Liu - 2025 - InjecGuard Benchmarking and Mitigating Over-defense in Prompt Injection Guardrail Models.pdf:application/pdf},
+	keywords = {Computer Science - Artificial Intelligence, Computer Science - Cryptography and Security, Computer Science - Computation and Language},
+	file = {PDF:files/468/Li and Liu - 2025 - InjecGuard Benchmarking and Mitigating Over-defense in Prompt Injection Guardrail Models.pdf:application/pdf},
 }
 
 @misc{zhang_benchmarking_2025,
@@ -235,7 +248,7 @@ doi={10.1109/TX}
 	year = {2025},
 	note = {Version Number: 1},
 	keywords = {Cryptography and Security (cs.CR), FOS: Computer and information sciences, Information Retrieval (cs.IR), Machine Learning (cs.LG)},
-	file = {PDF:C\:\\Users\\Ubok-Owaji\\Zotero\\storage\\XNQ2XMJ8\\Zhang et al. - 2025 - Benchmarking Poisoning Attacks against Retrieval-Augmented Generation.pdf:application/pdf},
+	file = {PDF:files/470/Zhang et al. - 2025 - Benchmarking Poisoning Attacks against Retrieval-Augmented Generation.pdf:application/pdf},
 }
 
 @misc{nasr_attacker_2025,
@@ -252,5 +265,17 @@ doi={10.1109/TX}
 	year = {2025},
 	note = {arXiv:2510.09023 [cs.LG]},
 	keywords = {Computer Science - Cryptography and Security, Computer Science - Machine Learning},
-	file = {PDF:C\:\\Users\\Ubok-Owaji\\Zotero\\storage\\A9P8NVHL\\Nasr et al. - 2025 - The Attacker Moves Second Stronger Adaptive Attacks Bypass Defenses Against Llm Jailbreaks and Prom.pdf:application/pdf},
+	file = {PDF:files/472/Nasr et al. - 2025 - The Attacker Moves Second Stronger Adaptive Attacks Bypass Defenses Against Llm Jailbreaks and Prom.pdf:application/pdf},
+}
+
+
+% in text citataion
+@misc{lewis2021retrievalaugmentedgenerationknowledgeintensivenlp,
+      title={Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks}, 
+      author={Patrick Lewis and Ethan Perez and Aleksandra Piktus and Fabio Petroni and Vladimir Karpukhin and Naman Goyal and Heinrich Küttler and Mike Lewis and Wen-tau Yih and Tim Rocktäschel and Sebastian Riedel and Douwe Kiela},
+      year={2021},
+      eprint={2005.11401},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2005.11401}, 
 }
